@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maheshika</h1>
-<h3 align="center">I am a Sri Lankan with an interest in Machine Learning and cloud Security.</h3>
+<h3 align="center">I am a Freshgraduate with interest in Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshi99&label=Profile%20views&color=0e75b6&style=flat" alt="heshi99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshi99" alt="heshi99" /></a> </p>
 
-- 🔭 I’m currently working on **My Uni Final project**
-
-- 🌱 I’m currently learning **Machine Learning - Python**
-
-- 👯 I’m looking to collaborate on **Cloud Base Project**
+- 🌱 I’m currently learning **Machine Learning - Python, React.js, Node.js and other web development technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heshi99](https://github.com/Heshi99)
 
