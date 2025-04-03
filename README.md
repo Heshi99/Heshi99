@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heshi99](https://github.com/Heshi99)
 
-- 💬 Ask me about **Python,Java,C**
-
 - 📫 How to reach me **prabhashanimaheshika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
